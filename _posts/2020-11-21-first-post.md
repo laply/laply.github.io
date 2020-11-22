@@ -1,7 +1,9 @@
 ---
-layout: "splash"
-category: github page
-comment: true
+layout : splash
+category : github page
+
+toc : true
+toc_sticky: true
 ---
 
 # Post에 새글 쓰기
