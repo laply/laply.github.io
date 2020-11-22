@@ -1,9 +1,3 @@
----
-title: "start to posts"
-date: 2020-11-23 08:26:28 -0400
-categories: post github page
-----
-
 # Post에 새글 쓰기
 
 - 자신의 깃헙 저장소에서 create new file 을 눌러 새 파일을 입력한다. 
