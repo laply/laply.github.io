@@ -1,7 +1,6 @@
 ---
-layout : splash
 category : github page
-
+author_profile : true 
 toc : true
 toc_sticky: true
 ---
