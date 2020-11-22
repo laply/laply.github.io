@@ -2,4 +2,4 @@ main:
   - title : "About"
     url : "/about"
   - title : "Category"
-  url : "/categories"
+    url : "/categories"
