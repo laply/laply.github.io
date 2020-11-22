@@ -3,6 +3,7 @@ category : github page
 author_profile : true 
 toc : true
 toc_sticky: true
+comments: true
 ---
 
 # Post에 새글 쓰기
