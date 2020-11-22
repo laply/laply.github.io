@@ -4,6 +4,9 @@ author_profile : true
 toc : true
 toc_sticky: true
 comments: true
+  provider: "disqus"
+  disqus:
+    shortname: "your-disqus-shortname"
 ---
 
 # linux / Tomcat / jsp / mysql
