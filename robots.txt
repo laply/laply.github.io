@@ -1,3 +1,3 @@
 User-agent: *
-Allow : /
-Sitemap: /sitemap.xml
+Allow: /
+Sitemap: http://laply.github.io/sitemap.xml
