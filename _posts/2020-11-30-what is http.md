@@ -53,7 +53,7 @@ URL은 서버에 자원을 요청하기 위해 입력하는 영문 주소다.
 클라이언트의 개별적인 요청들은 서버로 보내지며, 서버는 요청을 처리하고
 response 라고 불리는 응답을 제공한다.
 
-![front-end](https://user-images.githubusercontent.com/65690925/100571954-b9d5e800-3317-11eb-9308-0e208473cfc6.png)
+![Client-server-chain](https://user-images.githubusercontent.com/65690925/100572127-1933f800-3318-11eb-862a-7b440c905cd8.png)
 
 이 요청과 응답 사이에는 여러 개체들이 있다. 
 다양한 작업을 하는 게이트 웨이 또는 캐시 역활의 프록시 등이 있다. 
